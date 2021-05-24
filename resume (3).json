@@ -1,0 +1,137 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "",
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Jon Neale Clay",
+    "email": "jonneale@gmail.com",
+    "website": "https://github.com/jonneale",
+    "location": {
+      "address": "London, UK"
+    },
+    "phone": "07875 395833"
+  },
+  "education": [
+    {
+      "institution": "University of Sussex",
+      "location": "",
+      "area": "Evolutionary and Adaptive Systems : With Merit",
+      "studyType": "MSc",
+      "startDate": "September 2006",
+      "endDate": "July 2007"
+    },
+    {
+      "institution": "University of Sussex",
+      "studyType": "BA (Hons)",
+      "area": "Artificial Intelligence : First Class",
+      "startDate": "September 2003",
+      "endDate": "July 2006"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Management responsibility for 20-30 engineers",
+        "Technical and strategic oversight of Uswitch, market leader for energy and telecoms comparison products",
+        "Managed technical solutions powering both consumer and partner facing sides of the business",
+        "Reporting directly to the group CTO, and operating as technical lead of businesses generating over £160m revenue annually"
+      ],
+      "company": "Uswitch",
+      "position": "Head of Engineering",
+      "startDate": "October 2019",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Responsible for technical delivery of the largest business unit in the group, delivering £60m+ annual revenue",
+        "Oversaw rewrite of core consumer facing applications from Ruby to React/Typescript",
+        "Rebuilt delivery teams following company acqusition in late 2018"
+      ],
+      "company": "Uswitch",
+      "position": "Head of Technology - Energy",
+      "startDate": "January 2019",
+      "endDate": "October 2019"
+    },
+    {
+      "highlights": [
+        "Clojure, Ruby, Javascript, Docker, Kubernetes, AWS",
+        "Lead the re-imagining and rollout of a technical platform capable of supporting the UK's leading energy comparison site, serving peak traffic of over 1,000 requests per second."
+      ],
+      "company": "Uswitch",
+      "position": "Principal Software Engineer",
+      "startDate": "August 2017",
+      "endDate": "January 2019"
+    },
+    {
+      "highlights": [
+        "Clojure, Ruby, Rails, C#, nginx, Postgresql, Mysql, MongoDB, Redis, AWS",
+        "Lead dev on Uswitch's credit card product. Took an ageing .Net platform and rewrote in Rails, increasing maintainability and pace of delivery.",
+        "Key member of energy back office team which revolutionised operational stability, rewriting a number of core apps in Clojure."
+      ],
+      "company": "Uswitch",
+      "position": "Lead Developer",
+      "endDate": "August 2017",
+      "startDate": "December 2011"
+    },
+    {
+      "highlights": [
+        "Ruby on Rails, Shopify, nginx, Postgresql, Mysql",
+        "This startup incubated with Uswitch's parent company was centred around targeting ultra-niche ppc terms around pet supplies, and testing consumer appetite by spinning up an online shop to serve those needs, drop-shipping products when ordered from Amazon. Sucessful shops became sites in their own right.  As a member of a small dev team (2-3), I was responsible for reacting to consumer demand, developing, opening and optimising sites based on interest, and improving the inventory management system when we eventually purchased a warehouse."
+      ],
+      "company": "Just Shops (Uswitch)",
+      "position": "Lead Developer",
+      "startDate": "March 2011",
+      "endDate": "December 2011"
+    },
+    {
+      "company": "Uswitch",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "March 2008",
+      "highlights": [
+        "C#, Javascript, MSSQL, IIS 6/7"
+      ],
+      "endDate": "March 2011"
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "about",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
